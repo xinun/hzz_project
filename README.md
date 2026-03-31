@@ -1,10 +1,42 @@
-# Redis Microservice Added
-# New Service: backend-stats added
+# 더존 비즈온 3기 최종 프로젝트 
+# 🍶 한잔주(Han-jan Ju) 프로젝트 상세 내용
 
-## 🔎 Operations / Monitoring
-
-- ArgoCD (Deploy Status): https://add2bc27e93fd49ae974c8893f013b46-2046230596.ap-northeast-2.elb.amazonaws.com/applications
-- GitLab Pipelines: /-/pipelines
-- Releases: /-/releases
-- Grafana (Team Dashboard): https://monitor.hanzanzu.cloud (Cognito login required)
-- CloudWatch (AWS Console): https://ap-northeast-2.console.aws.amazon.com/cloudwatch/home
+![한잔주 PT_page-0002](https://github.com/user-attachments/assets/4f43c870-a4a5-4174-82aa-06880ae6b796)
+![한잔주 PT_page-0003](https://github.com/user-attachments/assets/99da679a-9e3e-4784-b786-f6be9a9fa06d)
+![한잔주 PT_page-0006](https://github.com/user-attachments/assets/4c315435-fde8-4710-9d46-0fe433db1e3e)
+![한잔주 PT_page-0007](https://github.com/user-attachments/assets/8f480816-e88f-4485-aeeb-ca32ae87f516)
+![한잔주 PT_page-0008](https://github.com/user-attachments/assets/a6652529-bcdd-4d2e-a869-74523cba93f1)
+![한잔주 PT_page-0009](https://github.com/user-attachments/assets/0efc610b-2801-40e5-ab92-bd233565e349)
+![한잔주 PT_page-0010](https://github.com/user-attachments/assets/95d8c488-2618-4e56-a54c-30c98c8546ac)
+![한잔주 PT_page-0011](https://github.com/user-attachments/assets/fdd16052-c07a-49b9-b25a-3f5c957ef3e6)
+![한잔주 PT_page-0012](https://github.com/user-attachments/assets/49dddba6-4a8a-4a1e-af19-7cbdf280b93e)
+![한잔주 PT_page-0013](https://github.com/user-attachments/assets/d2d6708b-6d33-425f-91a5-198669943d15)
+![한잔주 PT_page-0014](https://github.com/user-attachments/assets/834752ed-c47b-44ad-976e-2b59aeddd87a)
+![한잔주 PT_page-0015](https://github.com/user-attachments/assets/c217d780-c440-4949-978c-3d395d65e02a)
+![한잔주 PT_page-0016](https://github.com/user-attachments/assets/5a6b5d27-ba19-443d-a8be-03bed5c42f2f)
+![한잔주 PT_page-0017](https://github.com/user-attachments/assets/a91760d4-6dbc-4173-b17f-4ab5be64b0a9)
+![한잔주 PT_page-0018](https://github.com/user-attachments/assets/6efb778a-91fa-408b-a5a0-d644986f8d07)
+![한잔주 PT_page-0019](https://github.com/user-attachments/assets/baecd415-f292-44e5-a850-81e5cd225af4)
+![한잔주 PT_page-0020](https://github.com/user-attachments/assets/c24beda0-3ff1-49a8-98b8-1c7ede235673)
+![한잔주 PT_page-0021](https://github.com/user-attachments/assets/e12948c6-5aef-4946-8bc0-4548156b2565)
+![한잔주 PT_page-0022](https://github.com/user-attachments/assets/35420e1d-cb20-4bcb-b7f4-cb17cc13f297)
+![한잔주 PT_page-0023](https://github.com/user-attachments/assets/111cdee0-9830-4203-b4d7-a4d439c1fbea)
+![한잔주 PT_page-0024](https://github.com/user-attachments/assets/f094472c-13c6-43a2-b447-3df6bf6c8b33)
+![한잔주 PT_page-0025](https://github.com/user-attachments/assets/13e0f079-eccc-4ce7-b6aa-86f6c1430b33)
+![한잔주 PT_page-0026](https://github.com/user-attachments/assets/fe7a4f6f-9e9d-4328-8ddb-d46197fd5143)
+![한잔주 PT_page-0027](https://github.com/user-attachments/assets/ff4f08bd-c294-4f6f-8403-972dcb158eb2)
+![한잔주 PT_page-0028](https://github.com/user-attachments/assets/f33c45a3-f700-4b34-b46d-e04746f3732f)
+![한잔주 PT_page-0029](https://github.com/user-attachments/assets/db2867a3-7ccd-4f9b-a909-1cfcd9ee76dc)
+![한잔주 PT_page-0030](https://github.com/user-attachments/assets/ef57d5cc-b753-4ba3-8f0c-11d5b8b7013c)
+![한잔주 PT_page-0031](https://github.com/user-attachments/assets/38f3be95-5017-4d3e-a8ed-6ceda671cd62)
+![한잔주 PT_page-0032](https://github.com/user-attachments/assets/7826b53b-ef27-4055-994e-201918392794)
+![한잔주 PT_page-0033](https://github.com/user-attachments/assets/5be94f6c-b37a-4ef6-a45c-68f851ab5019)
+![한잔주 PT_page-0034](https://github.com/user-attachments/assets/3b0a7f00-3be6-4333-ba7c-b880567f56b2)
+![한잔주 PT_page-0035](https://github.com/user-attachments/assets/8b6f7a38-1479-4240-aa8e-39072a1d6ffa)
+![한잔주 PT_page-0036](https://github.com/user-attachments/assets/4f2f15c9-35e9-4347-86b5-1a55b6f26715)
+![한잔주 PT_page-0037](https://github.com/user-attachments/assets/7826b53b-ef27-4055-994e-201918392794)
+![한잔주 PT_page-0038](https://github.com/user-attachments/assets/07d3baa4-03d2-4855-876b-28e540ac6f39)
+![한잔주 PT_page-0039](https://github.com/user-attachments/assets/af7ae857-42bf-4df4-a14d-5b431cb18b02)
+![한잔주 PT_page-0040](https://github.com/user-attachments/assets/60e41d5e-f787-4a96-8c4b-3613f6038bef)
+![한잔주 PT_page-0041](https://github.com/user-attachments/assets/b5c6c03e-1af2-470d-a5f1-7a8ae911c557)
+![한잔주 PT_page-0042](https://github.com/user-attachments/assets/d1576dcd-4264-4b66-84e1-2d22394955ea)
